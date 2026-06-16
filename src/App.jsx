@@ -38,7 +38,7 @@ function App() {
         >
 
           <h2 className="hero-title">
-            Hi, I'm <span>Akash</span>
+            Hi, I'm <span>alex</span>
           </h2>
 
           <p className="hero-text">
